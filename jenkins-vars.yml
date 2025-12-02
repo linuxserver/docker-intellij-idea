@@ -1,0 +1,27 @@
+---
+
+# jenkins variables
+project_name: docker-intellij-idea
+external_type: na
+custom_version_command: "curl -sL https://mirror.rackspace.com/archlinux/extra/os/x86_64/extra.db | tar tzf - | awk -F '(-|/)' '/intellij-idea-community-edition/ {print $5; exit}'"
+release_type: stable
+release_tag: latest
+ls_branch: master
+repo_vars:
+  - BUILD_VERSION_ARG = 'IDEA_VERSION'
+  - LS_USER = 'linuxserver'
+  - LS_REPO = 'docker-intellij-idea'
+  - CONTAINER_NAME = 'intellij-idea'
+  - DOCKERHUB_IMAGE = 'linuxserver/intellij-idea'
+  - DEV_DOCKERHUB_IMAGE = 'lsiodev/intellij-idea'
+  - PR_DOCKERHUB_IMAGE = 'lspipepr/intellij-idea'
+  - DIST_IMAGE = 'arch'
+  - MULTIARCH = 'true'
+  - CI = 'true'
+  - CI_WEB = 'true'
+  - CI_PORT = '3001'
+  - CI_SSL = 'true'
+  - CI_DELAY = '120'
+  - CI_DOCKERENV = 'TZ=US/Pacific'
+  - CI_AUTH = 'user:password'
+  - CI_WEBPATH = ''
