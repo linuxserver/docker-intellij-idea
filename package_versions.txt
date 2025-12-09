@@ -511,7 +511,7 @@ ini                                                                           1.
 ini4j                                                                         0.5.5-2                                    java-archive  (+1 duplicate)   
 intel-gmmlib                                                                  22.8.2-1                                   alpm                           
 intel-media-driver                                                            25.3.4-1                                   alpm                           
-intellij-idea-community-edition                                               4:2025.2.4-1                               alpm                           
+intellij-idea-community-edition                                               4:2025.2.5-1                               alpm                           
 intellij-test-discovery                                                       UNKNOWN                                    java-archive                   
 iproute2                                                                      6.18.0-1                                   alpm                           
 iptables                                                                      1:1.8.11-2                                 alpm                           
@@ -544,8 +544,7 @@ jgoodies-common                                                               1.
 jpegxl                                                                        UNKNOWN                                    java-archive                   
 jq                                                                            1.7.1                                      binary                         
 jq                                                                            1.8.1-1                                    alpm                           
-jrt-fs                                                                        21.0.8                                     java-archive                   
-jrt-fs                                                                        21.0.9                                     java-archive                   
+jrt-fs                                                                        21.0.9                                     java-archive  (+1 duplicate)   
 js-plain-objects-compiler-plugin                                              UNKNOWN                                    java-archive                   
 json                                                                          1.0.0                                      npm                            
 json                                                                          20240205                                   java-archive                   
