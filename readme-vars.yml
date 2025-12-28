@@ -103,4 +103,5 @@ init_diagram: |
   "intellij-idea:latest" <- Base Images
 # changelog
 changelogs:
+  - {date: "28.12.25:", desc: "Add Wayland init logic."}
   - {date: "02.12.25:", desc: "Initial Version."}
