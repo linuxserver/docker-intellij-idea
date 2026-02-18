@@ -21,7 +21,7 @@ RUN \
   echo "**** install packages ****" && \
   pacman -Sy --noconfirm \
    caja \
-   "intellij-idea-community-edition${IDEA_VERSION:+=$IDEA_VERSION}" \
+   intellij-idea-community-edition \
    libva && \
   echo "**** cleanup ****" && \
   printf \
