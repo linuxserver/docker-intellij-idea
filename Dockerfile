@@ -11,7 +11,8 @@ LABEL build_version="Linuxserver.io version:- ${VERSION} Build-date:- ${BUILD_DA
 LABEL maintainer="thelamer"
 
 ENV TITLE="IntelliJ IDEA" \
-    NO_GAMEPAD="true"
+    NO_GAMEPAD="true" \
+    PIXELFLUX_WAYLAND=true
 
 RUN \
   echo "**** add icon ****" && \
