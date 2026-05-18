@@ -11,7 +11,6 @@ project_categories: "Programming"
 # supported architectures
 available_architectures:
   - {arch: "{{ arch_x86_64 }}", tag: "latest"}
-  - {arch: "{{ arch_arm64 }}", tag: "arm64v8-latest"}
 # development version
 development_versions: false
 # container parameters
@@ -103,6 +102,7 @@ init_diagram: |
   "intellij-idea:latest" <- Base Images
 # changelog
 changelogs:
+  - {date: "18.05.26:", desc: "Remove aarch64 support as it has been dropped upstream."}
   - {date: "03.04.26:", desc: "Make Wayland default disable with PIXELFLUX_WAYLAND=false."}
   - {date: "18.02.26:", desc: "Change aarch64 version to best effort."}
   - {date: "28.12.25:", desc: "Add Wayland init logic."}

@@ -52,7 +52,7 @@ The architectures supported by this image are:
 | Architecture | Available | Tag |
 | :----: | :----: | ---- |
 | x86-64 | ✅ | amd64-\<version tag\> |
-| arm64 | ✅ | arm64v8-\<version tag\> |
+| arm64 | ❌ | |
 
 ## Application Setup
 
@@ -643,6 +643,7 @@ Once registered you can define the dockerfile to use with `-f Dockerfile.aarch64
 
 ## Versions
 
+* **18.05.26:** - Remove aarch64 support as it has been dropped upstream.
 * **03.04.26:** - Make Wayland default disable with PIXELFLUX_WAYLAND=false.
 * **18.02.26:** - Change aarch64 version to best effort.
 * **28.12.25:** - Add Wayland init logic.
