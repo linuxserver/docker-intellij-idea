@@ -27,7 +27,7 @@ pipeline {
     DEV_DOCKERHUB_IMAGE = 'lsiodev/intellij-idea'
     PR_DOCKERHUB_IMAGE = 'lspipepr/intellij-idea'
     DIST_IMAGE = 'arch'
-    MULTIARCH = 'true'
+    MULTIARCH = 'false'
     CI = 'true'
     CI_WEB = 'true'
     CI_PORT = '3001'
