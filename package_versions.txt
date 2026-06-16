@@ -13,7 +13,7 @@ Stylepad                                                                      21
 SwingSet2                                                                     21.0.11                                    java-archive                   
 TableExample                                                                  21.0.11                                    java-archive                   
 TransparentRuler                                                              21.0.11                                    java-archive                   
-abseil-cpp                                                                    20260107.1-1                               alpm                           
+abseil-cpp                                                                    20260526.0-2                               alpm                           
 acl                                                                           2.3.2-2                                    alpm                           
 adwaita-cursors                                                               50.0-1                                     alpm                           
 adwaita-fonts                                                                 50.0-1                                     alpm                           
@@ -23,7 +23,7 @@ agent                                                                         UN
 aho-corasick-double-array-trie                                                1.2.3                                      java-archive                   
 aiofiles                                                                      25.1.0                                     python                         
 aiohappyeyeballs                                                              2.6.2                                      python                         
-aiohttp                                                                       3.14.0                                     python                         
+aiohttp                                                                       3.14.1                                     python                         
 aioice                                                                        0.10.2                                     python                         
 aiosignal                                                                     1.4.0                                      python                         
 allopen-compiler-plugin                                                       2.3.10-release-465                         java-archive                   
@@ -66,7 +66,7 @@ archetype-catalog                                                             3.
 archetype-common                                                              2.2                                        java-archive                   
 archetype-common                                                              3.2.1                                      java-archive                   
 archetype-descriptor                                                          2.2                                        java-archive                   
-archlinux-keyring                                                             20260420-1                                 alpm                           
+archlinux-keyring                                                             20260612-1                                 alpm                           
 asciidoctor-vscode                                                            3.3.2-dev                                  npm                            
 asm                                                                           9.8                                        java-archive                   
 asm                                                                           UNKNOWN                                    java-archive                   
@@ -82,11 +82,11 @@ autocommand                                                                   2.
 autoconf                                                                      2.73-1                                     alpm                           
 automake                                                                      1.18.1-1                                   alpm                           
 automaton                                                                     1.12-4                                     java-archive                   
-av                                                                            17.0.1                                     python                         
+av                                                                            17.1.0                                     python                         
 avahi                                                                         1:0.9rc4-1                                 alpm                           
 backports-tarfile                                                             1.2.0                                      python                         
 base-devel                                                                    1-2                                        alpm                           
-bash                                                                          5.3.12-1                                   alpm                           
+bash                                                                          5.3.15-1                                   alpm                           
 bat                                                                           1.0.0                                      npm                            
 binutils                                                                      2.46+r70+g155188ea10a7-1                   alpm                           
 bison                                                                         3.8.2-8                                    alpm                           
@@ -150,7 +150,7 @@ coreutils                                                                     9.
 cpio                                                                          2.15-3                                     alpm                           
 cpp                                                                           1.0.0                                      npm                            
 cppdap                                                                        1.58.0-3                                   alpm                           
-cryptography                                                                  48.0.0                                     python                         
+cryptography                                                                  49.0.0                                     python                         
 cryptsetup                                                                    2.8.6-1                                    alpm                           
 csharp                                                                        1.0.0                                      npm                            
 css                                                                           1.0.0                                      npm                            
@@ -196,13 +196,13 @@ exempi                                                                        2.
 expat                                                                         2.8.1-1                                    alpm                           
 failureaccess                                                                 1.0.2                                      java-archive                   
 failureaccess                                                                 1.0.3                                      java-archive                   
-fakeroot                                                                      1.38.1-1                                   alpm                           
+fakeroot                                                                      1:1.37.2-1                                 alpm                           
 fastutil                                                                      8.5.18                                     java-archive                   
 fcft                                                                          3.3.3-1                                    alpm                           
 fest-reflect                                                                  1.4.1                                      java-archive  (+1 duplicate)   
 fest-util                                                                     1.2.5                                      java-archive  (+1 duplicate)   
 fftw                                                                          3.3.11-1                                   alpm                           
-file                                                                          5.47-3                                     alpm                           
+file                                                                          5.48-1                                     alpm                           
 filesystem                                                                    2025.10.12-1                               alpm                           
 findutils                                                                     4.10.0-3                                   alpm                           
 flac                                                                          1.5.0-1                                    alpm                           
@@ -657,7 +657,7 @@ latex                                                                         1.
 lcms2                                                                         2.19.1-1                                   alpm                           
 leancrypto                                                                    1.7.2-1                                    alpm                           
 less                                                                          1.0.0                                      npm                            
-less                                                                          1:702-1                                    alpm                           
+less                                                                          1:704-1                                    alpm                           
 libarchive                                                                    3.8.7-1                                    alpm                           
 libasan                                                                       16.1.1+r12+g301eb08fa2c5-1                 alpm                           
 libassuan                                                                     3.0.0-1                                    alpm                           
@@ -735,7 +735,7 @@ libngtcp2                                                                     1.
 libnl                                                                         3.12.0-1                                   alpm                           
 libnotify                                                                     0.8.8-1                                    alpm                           
 libnsl                                                                        2.0.1-2                                    alpm                           
-libnvme                                                                       1.16.1-3                                   alpm                           
+libnvme                                                                       1.16.2-1                                   alpm                           
 libobjc                                                                       16.1.1+r12+g301eb08fa2c5-1                 alpm                           
 libogg                                                                        1.3.6-1                                    alpm                           
 libp11-kit                                                                    0.26.2-1                                   alpm                           
@@ -763,7 +763,7 @@ libtasn1                                                                      4.
 libthai                                                                       0.1.30-1                                   alpm                           
 libtiff                                                                       4.7.1-2                                    alpm                           
 libtirpc                                                                      1.3.7-1                                    alpm                           
-libtool                                                                       2.6.0+r23+gb08cb0a0-1                      alpm                           
+libtool                                                                       2.6.1-1                                    alpm                           
 libtsan                                                                       16.1.1+r12+g301eb08fa2c5-1                 alpm                           
 libubsan                                                                      16.1.1+r12+g301eb08fa2c5-1                 alpm                           
 libunistring                                                                  1.4.2-1                                    alpm                           
@@ -810,7 +810,7 @@ libxv                                                                         1.
 libxvmc                                                                       1.0.15-1                                   alpm                           
 libxxf86vm                                                                    1.1.7-1                                    alpm                           
 linux-api-headers                                                             7.0-1                                      alpm                           
-linux-headers                                                                 7.0.11.arch1-1                             alpm                           
+linux-headers                                                                 7.0.12.arch1-1                             alpm                           
 listenablefuture                                                              9999.0-empty-to-avoid-conflict-with-guava  java-archive                   
 llvm-libs                                                                     22.1.6-1                                   alpm                           
 lm_sensors                                                                    1:3.6.2-1                                  alpm                           
@@ -900,7 +900,7 @@ morfologik-stemming                                                           2.
 mpdecimal                                                                     4.0.1-3                                    alpm                           
 mpfr                                                                          4.2.2-1                                    alpm                           
 mpg123                                                                        1.33.5-1                                   alpm                           
-msgpack                                                                       1.1.2                                      python                         
+msgpack                                                                       1.2.0                                      python                         
 mtdev                                                                         1.1.7-1                                    alpm                           
 multidict                                                                     6.7.1                                      python                         
 mutability-annotations-compat                                                 UNKNOWN                                    java-archive                   
@@ -923,14 +923,14 @@ noto-fonts-cjk                                                                20
 noto-fonts-emoji                                                              1:2.051-1                                  alpm                           
 npth                                                                          1.8-1                                      alpm                           
 nspr                                                                          4.39-1                                     alpm                           
-nss                                                                           3.124-1                                    alpm                           
+nss                                                                           3.125-1                                    alpm                           
 nvidia-cuda-nvrtc                                                             13.3.33                                    python                         
 objective-c                                                                   1.0.0                                      npm                            
 oniguruma                                                                     6.9.10-1                                   alpm                           
 openbox                                                                       3.6.1-14                                   alpm                           
 openbsd-netcat                                                                1.238_1-1                                  alpm                           
 openssh                                                                       10.3p1-1                                   alpm                           
-openssl                                                                       3.6.2-2                                    alpm                           
+openssl                                                                       3.6.3-1                                    alpm                           
 opus                                                                          1.6.1-1                                    alpm                           
 orc                                                                           0.4.42-1                                   alpm                           
 org.eclipse.sisu.inject                                                       0.9.0.M4                                   java-archive                   
@@ -942,7 +942,7 @@ oshi-core                                                                     6.
 p11-kit                                                                       0.26.2-1                                   alpm                           
 packaging                                                                     26.0                                       python                         
 pacman                                                                        7.1.0.r9.g54d9411-2                        alpm                           
-pacman-mirrorlist                                                             20260406-1                                 alpm                           
+pacman-mirrorlist                                                             20260610-1                                 alpm                           
 pahole                                                                        1:1.31-2                                   alpm                           
 pam                                                                           1.7.2-2                                    alpm                           
 pambase                                                                       20250719-1                                 alpm                           
@@ -957,7 +957,7 @@ patch                                                                         2.
 pciutils                                                                      3.15.0-1                                   alpm                           
 pcmflux                                                                       1.0.8                                      python                         
 pcre2                                                                         10.47-1                                    alpm                           
-pcsclite                                                                      2.5.0-1                                    alpm                           
+pcsclite                                                                      2.5.1-1                                    alpm                           
 perl                                                                          1.0.0                                      npm                            
 perl                                                                          5.42.2-1                                   alpm                           
 pgp                                                                           1.83                                       java-archive                   
@@ -1002,7 +1002,7 @@ pycparser                                                                     3.
 pyee                                                                          13.0.1                                     python                         
 pylibsrtp                                                                     1.0.0                                      python                         
 pynput                                                                        1.8.2                                      python                         
-pyopenssl                                                                     26.2.0                                     python                         
+pyopenssl                                                                     26.3.0                                     python                         
 python                                                                        1.0.0                                      npm                            
 python                                                                        3.14.5-1                                   alpm                           
 python-xlib                                                                   0.33                                       python                         
@@ -1021,7 +1021,7 @@ rpc                                                                           2.
 rt                                                                            UNKNOWN                                    java-archive                   
 rtkit                                                                         0.14-1                                     alpm                           
 ruby                                                                          1.0.0                                      npm                            
-runc                                                                          1.4.2-1                                    alpm                           
+runc                                                                          1.4.3-1                                    alpm                           
 rust                                                                          1.0.0                                      npm                            
 sa-jdwp                                                                       UNKNOWN                                    java-archive                   
 sam-with-receiver-compiler-plugin                                             2.3.10-release-465                         java-archive                   
@@ -1061,8 +1061,9 @@ sqlite                                                                        3.
 st                                                                            0.9.3-1                                    alpm                           
 st-debug                                                                      0.9.3-1                                    alpm                           
 startup-notification                                                          0.12-9                                     alpm                           
-stdlib                                                                        go1.26.1-X:nodwarf5                        go-module     (+1 duplicate)   
+stdlib                                                                        go1.26.1-X:nodwarf5                        go-module                      
 stdlib                                                                        go1.26.3-X:nodwarf5                        go-module     (+7 duplicates)  
+stdlib                                                                        go1.26.4-X:nodwarf5                        go-module                      
 stream                                                                        0.8.4                                      java-archive                   
 streamex                                                                      0.8.4                                      java-archive                   
 sudo                                                                          1.9.17.p2-2                                alpm                           
@@ -1119,7 +1120,7 @@ wagon-provider-api                                                            3.
 wagon-provider-api                                                            3.5.3                                      java-archive  (+1 duplicate)   
 watchdog                                                                      6.0.0                                      python                         
 wayland                                                                       1.25.0-1                                   alpm                           
-wayland-protocols                                                             1.48-1                                     alpm                           
+wayland-protocols                                                             1.49-1                                     alpm                           
 webrtc-audio-processing-1                                                     1.3-5                                      alpm                           
 websocket                                                                     1.6.0                                      java-archive                   
 websockets                                                                    16.0                                       python                         
