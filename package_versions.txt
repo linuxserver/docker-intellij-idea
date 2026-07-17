@@ -523,7 +523,7 @@ ini                                                                           1.
 ini4j                                                                         0.5.5-2                                    java-archive                   
 intel-gmmlib                                                                  22.10.0-1                                  alpm                           
 intel-media-driver                                                            26.1.5-1                                   alpm                           
-intellij-idea-community-edition                                               4:2026.1.3-3                               alpm                           
+intellij-idea-community-edition                                               4:2026.1.4-1                               alpm                           
 intellij-test-discovery                                                       UNKNOWN                                    java-archive                   
 io                                                                            3.4.1                                      java-archive                   
 ion                                                                           1.11.11                                    java-archive                   
@@ -574,6 +574,7 @@ json                                                                          UN
 json-c                                                                        0.19-1                                     alpm                           
 json-glib                                                                     1.10.8-1                                   alpm                           
 jsoncpp                                                                       1.9.6-3                                    alpm                           
+jsonrpc                                                                       0.24.0.v20250131-1745                      java-archive                   
 jsonschema                                                                    UNKNOWN                                    java-archive                   
 jsoup                                                                         1.21.2                                     java-archive                   
 jspecify                                                                      1.0.0                                      java-archive  (+1 duplicate)   
@@ -824,6 +825,7 @@ log                                                                           1.
 logging                                                                       1.2                                        java-archive                   
 lombok-compiler-plugin                                                        2.3.10-release-465                         java-archive                   
 lombok-compiler-plugin                                                        UNKNOWN                                    java-archive                   
+lsp4j                                                                         0.24.0.v20250131-1745                      java-archive                   
 lua                                                                           1.0.0                                      npm                            
 lua54                                                                         5.4.8-6                                    alpm                           
 lucene-analyzers-common                                                       8.11.1                                     java-archive                   
