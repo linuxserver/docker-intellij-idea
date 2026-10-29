@@ -22,7 +22,7 @@ RUN \
   echo "**** install packages ****" && \
   pacman -Sy --noconfirm \
    caja \
-   "intellij-idea-community-edition${IDEA_VERSION:+=$IDEA_VERSION}" && \
+   "intellij-idea-oss${IDEA_VERSION:+=$IDEA_VERSION}" && \
   echo "**** cleanup ****" && \
   printf \
     "Linuxserver.io version: ${VERSION}\nBuild-date: ${BUILD_DATE}" \
