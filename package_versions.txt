@@ -1130,7 +1130,7 @@ typescript                                                                    10
 typing-extensions                                                             4.16.0                                     python                          
 typing-inspection                                                             0.4.5                                      python                          
 tzdata                                                                        2026f-1                                    alpm                            
-udisks2                                                                       2.11.2-1                                   alpm                            
+udisks2                                                                       2.12.0-1                                   alpm                            
 ui                                                                            UNKNOWN                                    java-archive                    
 util                                                                          3.25.5                                     java-archive                    
 util-linux                                                                    2.42.4-1                                   alpm                            
