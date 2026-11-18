@@ -1,18 +1,18 @@
 NAME                                                                          VERSION                                    TYPE                           
-CodePointIM                                                                   21.0.13.0.3                                java-archive                    
-FileChooserDemo                                                               21.0.13.0.3                                java-archive                    
-Font2DTest                                                                    21.0.13.0.3                                java-archive                    
+CodePointIM                                                                   21.0.13.1                                  java-archive                    
+FileChooserDemo                                                               21.0.13.1                                  java-archive                    
+Font2DTest                                                                    21.0.13.1                                  java-archive                    
 HdrHistogram                                                                  2.2.2                                      java-archive                    
-J2Ddemo                                                                       21.0.13.0.3                                java-archive                    
+J2Ddemo                                                                       21.0.13.1                                  java-archive                    
 Java-WebSocket                                                                1.6.0                                      java-archive                    
-Metalworks                                                                    21.0.13.0.3                                java-archive                    
-Notepad                                                                       21.0.13.0.3                                java-archive                    
-SampleTree                                                                    21.0.13.0.3                                java-archive                    
+Metalworks                                                                    21.0.13.1                                  java-archive                    
+Notepad                                                                       21.0.13.1                                  java-archive                    
+SampleTree                                                                    21.0.13.1                                  java-archive                    
 Simple Launcher                                                               1.1.0.14                                   binary        (+5 duplicates)   
-Stylepad                                                                      21.0.13.0.3                                java-archive                    
-SwingSet2                                                                     21.0.13.0.3                                java-archive                    
-TableExample                                                                  21.0.13.0.3                                java-archive                    
-TransparentRuler                                                              21.0.13.0.3                                java-archive                    
+Stylepad                                                                      21.0.13.1                                  java-archive                    
+SwingSet2                                                                     21.0.13.1                                  java-archive                    
+TableExample                                                                  21.0.13.1                                  java-archive                    
+TransparentRuler                                                              21.0.13.1                                  java-archive                    
 abseil-cpp                                                                    20260817.0-2                               alpm                            
 acl                                                                           2.4.0-1                                    alpm                            
 adwaita-cursors                                                               51.0-1                                     alpm                            
@@ -561,13 +561,13 @@ jcef                                                                          UN
 jcip                                                                          UNKNOWN                                    java-archive                    
 jcl-over-slf4j                                                                1.7.36                                     java-archive  (+1 duplicate)    
 jdk                                                                           1.66.0                                     java-archive                    
-jdk21-openjdk                                                                 21.0.13.0.3.u1-1                           alpm                            
+jdk21-openjdk                                                                 21.0.13.1.u2-1                             alpm                            
 jettison                                                                      1.5.7                                      java-archive                    
 jing                                                                          UNKNOWN                                    java-archive                    
 jklib-compiler                                                                2.4.10-release-377                         java-archive                    
 jpegxl                                                                        UNKNOWN                                    java-archive                    
 jq                                                                            1.8.2-1                                    alpm                            
-jrt-fs                                                                        21.0.13.0.3                                java-archive                    
+jrt-fs                                                                        21.0.13.1                                  java-archive                    
 jrt-fs                                                                        25.0.4.1                                   java-archive                    
 json                                                                          1.11.0                                     java-archive                    
 json                                                                          10.0.0                                     npm                             
